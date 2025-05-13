@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0xp;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/manor-house-2359884_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.hotel-text {
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.hotel-text h1 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+    border-bottom: 1px solid white;
+}
+
+.hotel-text p {
+    color: white;
+}
+
+.hotel-text input {
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.vedleSebe {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.submit1:hover {
+    background-color: wheat;
+}
+
+select {
+    margin-left: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
