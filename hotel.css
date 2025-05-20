@@ -53,3 +53,8 @@ select {
     border-radius: 20px;
     font-size: 20px;
 }
+
+#zprava {
+    color: white;
+    font-size: 20px;
+}

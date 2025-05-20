@@ -21,3 +21,7 @@ Heslo: ${hotelUser.heslo}
 Počet pokojů: ${hotelUser.pocetPokoju}`
 );
 })
+
+document.querySelector('.submit1').addEventListener('click', function() {
+document.getElementById('zprava').textContent = "Údaje byly uloženy do konzole.";
+});
