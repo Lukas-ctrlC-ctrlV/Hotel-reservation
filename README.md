@@ -1,3 +1,4 @@
+# Hotel Reservation Form
 This project is a basic hotel reservation form built using pure HTML, CSS, and JavaScript. It collects user input and logs the reservation details to the browser console. It's a beginner-friendly project for practicing DOM manipulation, form handling, and styling.
 
 ---
